@@ -1,6 +1,6 @@
 # DevOps Bootcamp Showcase
 
-A modern, responsive static website showcasing a DevOps bootcamp program. Built with Node.js, Express, and vanilla JavaScript following best practices.
+A modern, responsive static website showcasing a DevOps bootcamp program. Built with Node.js, Express, and vanilla JavaScript following best practices. my js
 
 ## 🚀 Features
 
